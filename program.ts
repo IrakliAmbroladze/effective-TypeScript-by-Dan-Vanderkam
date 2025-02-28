@@ -1,3 +1,3 @@
-function add(a: number, b: number) {
-  return a + b;
-}
+const tenses = ["past", "present", "future"];
+tenses[3].toUpperCase();
+tenses[0].toUpperCase();
